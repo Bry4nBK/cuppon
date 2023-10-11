@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400');
+.card{
+    height: 40%;
+    margin: 5%;
+    margin-top: 20%;
+    font-family: 'Roboto', sans-serif;
+}
+.card img{
+    height: 55%;
+}
+.prezio {
+    text-decoration: none; 
+    text-align: end;
+    color: #6c757d;
+   vertical-align: baseline;
+   font-family: 'Roboto', sans-serif;
+}
+.oferta{
+    text-decoration: none;
+    color: #198754;
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.formulario{
+    background-color: #198754;
+    margin-top: 25%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+.formulario button{
+    margin-bottom: 1%;
+}
+footer {
+    text-align: center;
+}
+.form-group {
+    width: 90%;
+    margin-left: 5%;
+    align-content: center;
+}
